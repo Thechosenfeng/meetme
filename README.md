@@ -1,10 +1,6 @@
 # meetme
 ECE 454 Capstone Design Project
 
-Viswesh Periyasamy
-Yefeng Yuan
-Julia Chen
-
 
 Project Modules
 
